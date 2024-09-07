@@ -1,0 +1,83 @@
+body {
+  background-color: #dc143c;
+  text-align: center;
+  color: #ffd700;
+}
+
+hr {
+  border: 20px solid #ffd700;
+}
+
+header {
+  background-color: #8b0a27;
+  padding: 50px;
+  font-size: 28px;
+}
+
+main, footer, #game2 {
+  background-color: #8b0a27;
+  font-size: 28px;
+  padding: 50px;
+}
+
+button {
+  height: 50px;
+  width: 75px;
+  background-color: #004d00;
+  color: white;
+  border: 2px solid #002600;
+  border-radius: 15%;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003a00;
+  border: 2px solid #001a00;
+}
+
+input {
+  background-color: #003a00;
+  color: white;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  margin-left: -4%;
+  margin-top: -2%;
+}
+
+#stats_5050, #stats_plinko, #profit {
+  background-color: #7b0a1e;
+}
+
+#rules1, #rules2 {
+  background-color: #7b0a1e;
+  padding: 25px;
+}
+
+#gambling_image {
+  width: 350px;
+  border-radius: 50px;
+}
+
+#money_gambled {
+  width: 175px;
+}
+
+#money_shower {
+  background-color: #dc143c;
+}
+
+#multipliers {
+  display: block;
+  margin-top: 5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", serif;
+}
+
+p {
+  font-family: "Montserrat", serif;
+}
